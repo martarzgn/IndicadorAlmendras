@@ -23,9 +23,23 @@ Con encontrar una mesa útil nos referimos a:
 
 3. **Nivel de ruido real:** Hay diferencias notables de ruido según la biblioteca y la franja horaria.
 
+
+## Lógica del problema y necesidad de cálculo
+
+La resolución del problema consiste en un motor de procesamiento que ejecuta las siguientes operaciones analíticas sobre los datos de observación:
+* **Ponderamiento por decaimiento temporal**: Aplicar una función de pérdida de vigencia sobre cada sala según su antigüedad para que los reportes recientes predominen sobre observaciones pasadas.
+* **Filtrado de anomalias y discrepancias**: Depurar y descartar reportes contradictorios y maliciosos sobre una sala en una misma ventana de observación.
+* **Validación de disponibilidad real** de puestos libres útiles frente a aquellos bloqueados por ocupación fantasma.
+* **Estimar la habitabilidad**: Detectar la probabilidad de encontrar tomas eléctricas libres, el nivel acústico tolerado y la disponibilidad física real.
+
 La questión a resolver consiste en que a partir de reportes regulares por los usuarios que lleguen a las bibliotecas de forma asíncrona en tiempo real, sobre el aforo real y la habitabilidad antes de moverse hasta el espacio de estudio.
 
 El problema y las necesidades del usuario fueron definidas a partir de la dinámica de *Design Thinking* realizada para empatizar con las dificultades de acceso a los puestos de estudio:
 
 ![tarjeta de cliente](doc/img/tarjeta-cliente.jpg)
 ![tarjeta de desarrollador](doc/img/tarjeta-desarrollador.jpg)
+![tarjeta de validación](doc/img/tarjeta-validacion.jpg)
+
+## Configuración del entorno
+
+Para ver los detalles de la configuración del entorno de desarrollo y del repositorio, ver [doc/configuracion.md](doc/configuracion.md)
