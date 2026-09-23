@@ -32,7 +32,12 @@ La resolución del problema consiste en un motor de procesamiento que ejecuta la
 * **Validación de disponibilidad real** de puestos libres útiles frente a aquellos bloqueados por ocupación fantasma.
 * **Estimar la habitabilidad**: Detectar la probabilidad de encontrar tomas eléctricas libres, el nivel acústico tolerado y la disponibilidad física real.
 
-La questión a resolver consiste en que a partir de reportes regulares por los usuarios que lleguen a las bibliotecas de forma asíncrona en tiempo real, sobre el aforo real y la habitabilidad antes de moverse hasta el espacio de estudio.
+El sistema ya poseerá datos estructurales de partida y no dependerá únicamente de la voluntad de los estudiantes.
+El sistema atiende a datos bases preexistentes como el catálogo oficial de bibliotecas de la UGR, el aforo máximo histórico y la distribuicioón fija de tomas electricas.
+
+El motor tendrá una interacción mínima, quien reporta sólo pulsará un indicador de estado puntual.
+
+El estudiante sólo define sus restricciones y el sistema calcula la mejor opción.
 
 El problema y las necesidades del usuario fueron definidas a partir de la dinámica de *Design Thinking* realizada para empatizar con las dificultades de acceso a los puestos de estudio:
 
