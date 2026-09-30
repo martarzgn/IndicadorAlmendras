@@ -3,6 +3,7 @@
 
 En este documento detallo las decisiones y herramientas de configuración utilizadas para desarrollar el proyecto **IndicadorAlmendras**.
 
+
 ## 1. Identidad en Git
 El cliente local de Git ha sido configurado con identidad única y verificable para asociar los commits a la autora del proyecto:
 * `user.name`: Configurado con el nombre real de la estudiante.
@@ -10,20 +11,20 @@ El cliente local de Git ha sido configurado con identidad única y verificable p
 
 ![Configuración de git](img/captura-git-config.png)
 
+
 ## 2. Autentificación y conexión segura (SSH)
 Para la sincronización con los repositorios remotos en GitHub se emplea exclusivamente autentificación mediante par de claves asimétricas SSH (`id_ed25519`):
 * La clave pública se encuentra registrada en GitHub.
 * Se rechaza el protocolo HTTPS y el uso de contraseñas en texto plano por motivos de seguridad y conforme a las directrices de la asignatura.
 
-![Clave SSH registrada en GitHub](img/captura-ssh.png)
 
 ## 3. Perfil de GitHub
 El perfil de GitHub tiene avatar propio (no el predeterminado), nombre y ciudad.
 
-![Perfil de GitHub](img/captura-perfil-github.png)
 
 ## 4. Licencia de Software Libre
 El proyecto se distribuye bajo los términos de la licencia libre GPL-3.0 (fichero [`LICENSE`](../LICENSE) en la raíz del repositorio), garantizando la transparencia del código, la libre distribución y el cumplimiento de los estándares de software libre exigidos.
+
 
 ## 5. Gestión de exclusiones (.gitignore)
 Se ha configurado un archivo `.gitignore` en la raíz para evitar el seguimiento de artefactos innecesarios en el control de versiones:
@@ -31,8 +32,10 @@ Se ha configurado un archivo `.gitignore` en la raíz para evitar el seguimiento
 * Entornos virtuales (`.venv/`, `env/`).
 * Ficheros temporales y de copia de seguridad generados por editores de texto en Linux (`*~`, `*.swp`).
 
+
 ## 6. Herramientas de gestión de entregas (git-iv)
 Se ha integrado el plugin oficial `git-iv` en la ruta ejecutable local del sistema (`~/.local/bin/git-iv`) para automatizar la nomenclatura de ramas (`git iv objetivo N`) y el envío de cambios (`git iv sube-objetivo`). El plugin se usa desde el sistema y no forma parte del repositorio.
+
 
 ## 7. Juego de rol (design thinking): IndicadorAlmendras
 
@@ -41,6 +44,7 @@ Se ha integrado el plugin oficial `git-iv` en la ruta ejecutable local del siste
 ![Tarjeta del desarrollador/a](img/tarjeta-desarrollador.jpg)
 
 ![Tarjeta de validación](img/tarjeta-validacion.jpg)
+
 
 ## 8. Historial: primer problema (StudyRadar UGR)
 
