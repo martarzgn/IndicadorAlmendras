@@ -46,8 +46,8 @@ Se ha integrado el plugin oficial `git-iv` en la ruta ejecutable local del siste
 ## 8. Historial: primer problema (StudyRadar UGR)
 
 Empecé con el proyecto de studyradar en el juego de rol de clase porque era algo que me 
-perjudicaba a mí, pero se descartóporque no había datos reales de ocupación, ruido ni 
-enchufes, y que por eso cambié al problema de la venta de almendra de mis padres.
+perjudicaba a mí, pero se descartó porque no había datos reales de ocupación, ruido ni 
+enchufes, y por eso cambié al problema de la venta de almendra de mis padres.
 
 ![Tarjeta del cliente – StudyRadar](img/studyradar/tarjeta-cliente.jpg)
 
