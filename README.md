@@ -8,7 +8,7 @@ Mis padres tienen una plantación de almendros de la variedad Lauranne. Es nueva
 llevan dos campañas cogiendo almendra. Toda la cosecha la venden de una vez, en
 cáscara, a una cooperativa, que les paga según el rendimiento en pepita y el precio
 de la almendra Comuna en la Lonja de Albacete (la Lonja de Albacete no cotiza la
-Lauranne, así que la cooPerativa la paga como Comuna).
+Lauranne, así que la cooperativa la paga como Comuna).
 
 El día de vender lo eligen ellos, y la almendra se puede guardar sin coste, así que
 pueden esperar si quieren. El problema es cómo deciden ese día: venden "cuando el
@@ -35,8 +35,8 @@ céntimo por kilo pesa.
 ## Datos
 
 - **Precios de mercado**: histórico semanal del precio de la almendra Comuna en la
-    Lonja de Albacete, desde 17/06/2021 (en aquel entonces estaba por 2.95).
-    Fuente:[Synergynuts - Lonja de Albacete](https://synergynuts.upct.es/precio-almendra/lonja-albacete/).
+    Lonja de Albacete, desde 17/06/2021 (en aquel entonces estaba por 2.95 €/kg).
+    Fuente: [Synergynuts - Lonja de Albacete](https://synergynuts.upct.es/precio-almendra/lonja-albacete/).
     Los datos están en las tablas en la web, así que hay que extraerlos.
 - **Ventas de mis padres**: los papeles de venta de la cooperativa de la campaña 
     del año pasado (la cosecha de este año está esperando a ver el precio más alto)
