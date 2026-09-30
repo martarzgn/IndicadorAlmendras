@@ -1,5 +1,6 @@
 # IndicadorAlmendras
 
+Marta Ruiz González
 
 ## El problema
 
