@@ -9,8 +9,6 @@ El cliente local de Git ha sido configurado con identidad única y verificable p
 * `user.name`: Configurado con el nombre real de la estudiante.
 * `user.email`: Configurado con el correo vinculado a la cuenta de GitHub.
 
-![Configuración de git](img/captura-git-config.png)
-
 
 ## 2. Autentificación y conexión segura (SSH)
 Para la sincronización con los repositorios remotos en GitHub se emplea exclusivamente autentificación mediante par de claves asimétricas SSH (`id_ed25519`):
@@ -32,7 +30,6 @@ Se ha configurado un archivo `.gitignore` en la raíz para evitar el seguimiento
 * Entornos virtuales (`.venv/`, `env/`).
 * Ficheros temporales y de copia de seguridad generados por editores de texto en Linux (`*~`, `*.swp`).
 
-
 ## 6. Herramientas de gestión de entregas (git-iv)
 Se ha integrado el plugin oficial `git-iv` en la ruta ejecutable local del sistema (`~/.local/bin/git-iv`) para automatizar la nomenclatura de ramas (`git iv objetivo N`) y el envío de cambios (`git iv sube-objetivo`). El plugin se usa desde el sistema y no forma parte del repositorio.
 
@@ -48,10 +45,9 @@ Se ha integrado el plugin oficial `git-iv` en la ruta ejecutable local del siste
 
 ## 8. Historial: primer problema (StudyRadar UGR)
 
-[ESCRIBE AQUÍ CON TUS PALABRAS, 2-3 FRASES: que en el juego de rol de clase
-trabajaste StudyRadar, que se descartó porque no había datos reales de
-ocupación, ruido ni enchufes (aunque en la validación se marcó que sí), y que
-por eso cambiaste al problema de la venta de almendra de tus padres.]
+Empecé con el proyecto de studyradar en el juego de rol de clase porque era algo que me 
+perjudicaba a mí, pero se descartóporque no había datos reales de ocupación, ruido ni 
+enchufes, y que por eso cambié al problema de la venta de almendra de mis padres.
 
 ![Tarjeta del cliente – StudyRadar](img/studyradar/tarjeta-cliente.jpg)
 
