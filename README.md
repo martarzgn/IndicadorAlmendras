@@ -89,7 +89,7 @@ tú con tu cosecha que es lo que mis padres no tienen.
     de rol en el `README.md` subiéndola al repositorio? Sí.
 * [X] ¿El estudiante tiene todos los datos necesarios para poder resolver el problema, 
     o va a requerir que el usuario los introduzca? Tengo los datos, el histórico de la
-    Lonja de Albacete [Synergynuts](https://synergynuts.upct.es/precio-almendra/) y 
+    Lonja de Albacete [Synergynuts - Lonja de Albacete](https://synergynuts.upct.es/precio-almendra/lonja-albacete/) y 
     los papeles de venta de mis padres. No hace falta que el usuario meta datos a mano.
 * [ ] ¿Se está marcando al buen tuntún todo? No.
 

@@ -81,7 +81,6 @@ enchufes, y por eso cambié al problema de la venta de almendra de mis padres.
 > hay puestos vacíos (o con cosas pero sin estudiantes sentados) y exponga un
 > índice probabilístico de habitabilidad por sala.
 
-![Tarjeta de validación – StudyRadar](img/studyradar/tarjeta-validacion.jpg)
 
 > Marcadas las cuatro casillas: problema real con conocimiento personal,
 > requiere despliegue en la nube, requiere lógica de negocio y se tienen los
