@@ -17,7 +17,7 @@ y otros agricultores del mismo pueblo, y alguna vez lo han mirado en alguna web.
 tienen ninguna forma de saber si el precio de esa semana está alto de verdad o 
 solo lo parece.
 
-Ya les ha pasado vender y que poco después el precio subiera sobre un 12%-15%. 
+Ya les ha pasado vender y que poco después el precio subiera sobre un 7 %. 
 Como venden la cosecha de golpe, ese porcentaje se pierde sobre todo lo del año.
 Además, la cosecha cambia mucho de un año a otro: el año pasado cogieron unos 
 1000 Kg y este año 500 Kg por la helada, así que cuando hay poca almendra cada 
