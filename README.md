@@ -38,12 +38,23 @@ céntimo por kilo pesa.
     Lonja de Albacete, desde 17/06/2021 (en aquel entonces estaba por 2.95 €/kg).
     Fuente: [Synergynuts - Lonja de Albacete](https://synergynuts.upct.es/precio-almendra/lonja-albacete/).
     Los datos están en las tablas en la web, así que hay que extraerlos.
+  Para sacarlos voy a leer el HTML de la página con mi propio código y quedarme con
+esas dos columnas (Fecha y Comuna).
 - **Ventas de mis padres**: los papeles de venta de la cooperativa de la campaña 
     del año pasado (la cosecha de este año está esperando a ver el precio más alto)
     que contienen fecha, kilos, rendimiento en pepita y precio.
     Son pocas ventas porque la plantación es nueva, pero sirven para cuantificar el 
     problema y comprobar que los cálculos cuadran con lo que les pagaron.
-    
+
+   Son las liquidaciones que les da la cooperativa cuando venden. De la campaña
+   pasada hay 2 papeles, en foto. De cada uno saco la fecha de la centa, lso kilos
+   en cáscara, el rendimiento en pepita y el precio pagado (€/kg).
+   Con esto puedo comprobar que, con el precio de la Comuna de esa semana y el
+   rendimiento, me sale lo que les pagaron de verdad.
+
+
+Así es como vienen (copiado de la tabla, solo Fecha y Comuna):
+
 ![Tabla de la Lonja de Albacete](doc/img/Lonja_de_Albacete.png)
 
 
