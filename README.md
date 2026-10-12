@@ -99,6 +99,10 @@ con tu cosecha, que es lo que mis padres no tienen.
 
 [Ver configuración y juego de rol](doc/configuracion.md)
 
+![Tarjeta del cliente](doc/img/tarjeta-cliente.jpg)
+![Tarjeta del desarrollador](doc/img/tarjeta-desarrollador.jpg)
+![Tarjeta de validación](doc/img/tarjeta-validacion.jpg)
+
 
 ## Licencia
 
