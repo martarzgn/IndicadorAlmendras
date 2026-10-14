@@ -53,7 +53,7 @@ y en otro.
 
     Así es como vienen (copiado de la tabla, solo Fecha y Comuna):
 
-    ![Tabla de la Lonja de Albacete](doc/img/Lonja_de_Albacete.png)
+    ![Tabla de la Lonja de Albacete](docs/img/Lonja_de_Albacete.png)
 
 - **Ventas de mis padres**: las liquidaciones que les da la cooperativa cuando
     venden. De la campaña pasada hay 2 papeles, en foto (la cosecha de este año
@@ -97,11 +97,11 @@ con tu cosecha, que es lo que mis padres no tienen.
 
 ## Configuración del repositorio y juego de rol
 
-[Ver configuración y juego de rol](doc/configuracion.md)
+[Ver configuración y juego de rol](docs/configuracion.md)
 
-![Tarjeta del cliente](doc/img/tarjeta-cliente.jpg)
-![Tarjeta del desarrollador](doc/img/tarjeta-desarrollador.jpg)
-![Tarjeta de validación](doc/img/tarjeta-validacion.jpg)
+![Tarjeta del cliente](docs/img/tarjeta-cliente.jpg)
+![Tarjeta del desarrollador](docs/img/tarjeta-desarrollador.jpg)
+![Tarjeta de validación](docs/img/tarjeta-validacion.jpg)
 
 
 ## Licencia
