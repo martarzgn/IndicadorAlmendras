@@ -17,6 +17,8 @@ Para la sincronización con los repositorios remotos en GitHub empleo exclusivam
 * La clave pública se encuentra subida en GitHub.
 * Se rechaza el protocolo HTTPS y el uso de contraseñas en texto plano por motivos de seguridad y conforme a las directrices de la asignatura. Así no se tiene que meter la contraseña cada vez y es más seguro.
 
+![Conexión SSH con GitHub](img/captura-ssh.png)
+
 
 ## 3. Perfil de GitHub
 Mi perfil de GitHub tiene avatar propio (no el predeterminado), mi nombre y ciudad.
