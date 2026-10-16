@@ -10,9 +10,9 @@ El código, todavía sin lógica, en el que cada parte sale de un issue en el qu
 aplicado esa metodología a la HU001.
 
 Es válido si se ha seguido la metodología. Lo compruebo viendo que:
-- los issues salen de la HU001 y de lo que enlaza (el journey y lo que se entiende por
+- los issues salen de la HU001 y de lo que enlaza (los journeys y lo que se entiende por
   precio alto de verdad) y plantean problemas, no tareas;
-- en los issues se usa el mismo vocabulario que usan mis padres y la cooperativa;
+- en los issues se usa el mismo vocabulario que usan mis padres, mi tío y la cooperativa;
 - cada parte del código responde a uno de esos issues, donde se justifica por qué es lo
   que es;
 - se han tenido en cuenta los errores que pueden darse al crear cada parte;
