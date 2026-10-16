@@ -53,7 +53,7 @@ y en otro.
 
     Así es como vienen (copiado de la tabla, solo Fecha y Comuna):
 
-    ![Tabla de la Lonja de Albacete](docs/img/Lonja_de_Albacete.png)
+    ![Tabla de la Lonja de Albacete](img/Lonja_de_Albacete.png)
 
 - **Ventas de mis padres**: las liquidaciones que les da la cooperativa cuando
     venden. De la campaña pasada hay 2 papeles, en foto (la cosecha de este año
@@ -94,14 +94,19 @@ Hay webs que publican precios de almendra de varias lonjas, como
 semana, pero no te dicen si te conviene vender ya o esperar, ni cuánto te juegas tú
 con tu cosecha, que es lo que mis padres no tienen.
 
+## Planificación (objetivo 1)
+- [Personas](docs/objetivos/objetivo-1/personas.md)
+- [User Journeys](docs/objetivos/objetivo-1/user-journeys.md)
+- [Historias de Usuario](docs/objetivos/objetivo-1/historias-usuario.md)
+- [Milestones](docs/objetivos/objetivo-1/milestones.md)
 
 ## Configuración del repositorio y juego de rol
 
-[Ver configuración y juego de rol](docs/configuracion.md)
+[Ver configuración y juego de rol](docs/objetivos/objetivo-0/configuracion.md)
 
-![Tarjeta del cliente](docs/img/tarjeta-cliente.jpg)
-![Tarjeta del desarrollador](docs/img/tarjeta-desarrollador.jpg)
-![Tarjeta de validación](docs/img/tarjeta-validacion.jpg)
+![Tarjeta del cliente](img/tarjeta-cliente.jpg)
+![Tarjeta del desarrollador](img/tarjeta-desarrollador.jpg)
+![Tarjeta de validación](img/tarjeta-validacion.jpg)
 
 
 ## Licencia

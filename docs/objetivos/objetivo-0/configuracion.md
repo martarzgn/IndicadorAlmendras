@@ -9,7 +9,7 @@ He configurado git con mi nombre y con el correo de mi cuenta de GitHub, así lo
 * `user.name`: Configurado con mi nombre.
 * `user.email`: Configurado con el correo vinculado a mi cuenta de GitHub.
 
-![Configuración de git](img/captura-git-config.png)
+![Configuración de git](../../../img/captura-git-config.png)
 
 
 ## 2. Autentificación y conexión segura (SSH)
@@ -17,7 +17,7 @@ Para la sincronización con los repositorios remotos en GitHub empleo exclusivam
 * La clave pública se encuentra subida en GitHub.
 * Se rechaza el protocolo HTTPS y el uso de contraseñas en texto plano por motivos de seguridad y conforme a las directrices de la asignatura. Así no se tiene que meter la contraseña cada vez y es más seguro.
 
-![Conexión SSH con GitHub](img/captura-ssh.png)
+![Conexión SSH con GitHub](../../../img/captura-ssh.png)
 
 
 ## 3. Perfil de GitHub
@@ -30,9 +30,9 @@ El proyecto se distribuye bajo los términos de la licencia libre GPL-3.0 (fiche
 
 ## 5. Juego de rol (design thinking)
 
-![Tarjeta del cliente](img/tarjeta-cliente.jpg)
+![Tarjeta del cliente](../../../img/tarjeta-cliente.jpg)
 
-![Tarjeta del desarrollador/a](img/tarjeta-desarrollador.jpg)
+![Tarjeta del desarrollador/a](../../../img/tarjeta-desarrollador.jpg)
 
-![Tarjeta de validación](img/tarjeta-validacion.jpg)
+![Tarjeta de validación](../../../img/tarjeta-validacion.jpg)
 
