@@ -51,10 +51,6 @@ y en otro.
     Los datos están en una tabla HTML en una sola página. Para sacarlos voy a leer
     el HTML con mi propio código y quedarme con las columnas Fecha y Comuna.
 
-    Así es como vienen (copiado de la tabla, solo Fecha y Comuna):
-
-    ![Tabla de la Lonja de Albacete](img/Lonja_de_Albacete.png)
-
 - **Ventas de mis padres**: las liquidaciones que les da la cooperativa cuando
     venden. De la campaña pasada hay 2 papeles, en foto (la cosecha de este año
     todavía no la han vendido). De cada uno saco la fecha de la venta, los kilos en
@@ -62,6 +58,13 @@ y en otro.
     Son pocas ventas porque la plantación es nueva, pero sirven para comprobar que,
     con el precio de la Comuna de esa semana y el rendimiento, me sale lo que les
     pagaron de verdad, y para saber cuánto habrían cobrado vendiendo otra semana.
+    Hay algunas cosas a tener en cuenta al sacar los datos:
+    - No hay precio todas las semanas: en agosto, por ejemplo, se salta semanas, porque no se suele recoger en esas
+    - Algunas semanas una variedad no tiene precio y sale un guion (–).
+    - Las fechas no siempre vienen igual: unas veces `6/8/2026` y otras `1/07/2021`, con el cero delante del mes.
+    - Los decimales van con punto, no con coma.
+
+
 
 
 ## Por qué en la nube
@@ -99,15 +102,11 @@ con tu cosecha, que es lo que mis padres no tienen.
 - [User Journeys](docs/objetivos/objetivo-1/user-journeys.md)
 - [Historias de Usuario](docs/objetivos/objetivo-1/historias-usuario.md)
 - [Milestones](docs/objetivos/objetivo-1/milestones.md)
+- [Conceptos](docs/objetivos/objetivo-1/conceptos.md)
 
 ## Configuración del repositorio y juego de rol
 
 [Ver configuración y juego de rol](docs/objetivos/objetivo-0/configuracion.md)
-
-![Tarjeta del cliente](img/tarjeta-cliente.jpg)
-![Tarjeta del desarrollador](img/tarjeta-desarrollador.jpg)
-![Tarjeta de validación](img/tarjeta-validacion.jpg)
-
 
 ## Licencia
 
