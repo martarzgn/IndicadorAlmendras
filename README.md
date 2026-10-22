@@ -59,7 +59,7 @@ y en otro.
     con el precio de la Comuna de esa semana y el rendimiento, me sale lo que les
     pagaron de verdad, y para saber cuánto habrían cobrado vendiendo otra semana.
     Hay algunas cosas a tener en cuenta al sacar los datos:
-    - No hay precio todas las semanas: en agosto, por ejemplo, se salta semanas, porque no se suele recoger en esas
+    - No hay precio todas las semanas: en agosto, por ejemplo, se salta semanas, porque no se suele recoger la almendra en esas fechas.
     - Algunas semanas una variedad no tiene precio y sale un guion (–).
     - Las fechas no siempre vienen igual: unas veces `6/8/2026` y otras `1/07/2021`, con el cero delante del mes.
     - Los decimales van con punto, no con coma.
