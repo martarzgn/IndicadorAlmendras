@@ -6,7 +6,7 @@ Mis padres (Mª del Mar y Antonio) y mi tío Rafa tienen la almendra guardada en
 
 A mis padres ya les ha pasado: vendieron unos 1000 kg en octubre de 2025 y poco después el precio subió alrededor de un 7 %. Como venden toda la cosecha de una vez, esa subida la pierden sobre la cosecha entera del año.
 
-Los precios semanales desde 2021 están en [Synergynuts - Lonja de Albacete](https://synergynuts.upct.es/precio-almendra/lonja-albacete/). Cómo lo hacen hoy y cuándo tienen que decidirse está en sus journeys: [mis padres](user-journeys.md#mª-del-mar-y-antonio-deciden-cuándo-vender-la-almendra) y [mi tío](user-journeys.md#rafa-mi-tío-decide-cuándo-vender-la-almendra).
+Los precios semanales desde 2021 están en [Synergynuts - Lonja de Albacete](https://synergynuts.upct.es/precio-almendra/lonja-albacete/). Cómo lo hacen hoy y cuándo tienen que decidirse está en sus journeys: [mis padres](user-journeys.md#mª-del-mar-y-antonio-deciden-cuándo-vender-la-almendra) y [mi tío](user-journeys.md#user-journey-rafa-mi-tío-decide-cuándo-vender-la-almendra).
 
 * Personas: [Mª del Mar y Antonio](personas.md#mª-del-mar-y-antonio-mis-padres), [Rafa](personas.md#rafa-mi-tío)
 
@@ -21,6 +21,6 @@ El rendimiento lo tienen desde el día que pesan, pero no hacen la cuenta y se e
 Ejemplo real: el 30/09/2026 mi tío vendió 140 kg con un rendimiento del 34,4 % a 5,55 €/kg de pepita, lo que sale a unos 1,91 €/kg en cáscara, unos 267 € en total.
 
 Los datos de kilos, rendimiento y precio pagado salen de los papeles de venta de la cooperativa (fecha, kg, rendimiento, precio).
-Cómo lo hacen hoy y cuándo tienen que decidirse está en sus journeys: [mis padres](user-journeys.md#mª-del-mar-y-antonio-deciden-cuándo-vender-la-almendra) y [mi tío](user-journeys.md#rafa-mi-tío-decide-cuándo-vender-la-almendra).
+Cómo lo hacen hoy y cuándo tienen que decidirse está en sus journeys: [mis padres](user-journeys.md#mª-del-mar-y-antonio-deciden-cuándo-vender-la-almendra) y [mi tío](user-journeys.md#user-journey-rafa-mi-tío-decide-cuándo-vender-la-almendra).
 
 * Personas: [Mª del Mar y Antonio](personas.md#mª-del-mar-y-antonio-mis-padres), [Rafa](personas.md#rafa-mi-tío)
