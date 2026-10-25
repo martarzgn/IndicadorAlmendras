@@ -3,7 +3,7 @@
 ## Milestone 0: análisis del problema de la HU001
 
 Es un milestone interno y corresponde al objetivo 2 de la asignatura. Trabaja con el
-problema de la [HU001](historias-de-usuario.md#hu001-no-sé-si-el-precio-de-la-almendra-de-esta-semana-está-alto-de-verdad)
+problema de la [HU001](historias_de_usuario.md#hu001-no-sé-si-el-precio-de-la-almendra-de-esta-semana-está-alto-de-verdad)
 y para analizarlo se sigue diseño dirigido por el dominio (Domain Driven Design).
 
 El código, todavía sin lógica, en el que cada parte sale de un issue en el que se ha
