@@ -9,8 +9,8 @@ y para analizarlo se sigue diseño dirigido por el dominio (Domain Driven Design
 Al acabar este milestone, en el repositorio estará representado en código lo que aparece
 en la HU001: el precio de cada semana de la Lonja de Albacete y los datos que tiene
 (qué variedad es, la fecha, la unidad, que es €/kg de pepita, y a qué campaña pertenece).
-No se podrá guardar un precio negativo. 
-Cuando la Lonja pone "-" para una variedad en una semana, el código guardará esa 
+No se podrá guardar un precio negativo.
+Cuando la Lonja pone "-" para una variedad en una semana, el código guardará esa
 semana sin precio para esa variedad, en vez de rechazarla como un precio incorrecto.
 Lo que todavía no podrá decir es si el precio de esta semana está alto de verdad.
 
