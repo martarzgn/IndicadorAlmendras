@@ -100,7 +100,7 @@ con tu cosecha, que es lo que mis padres no tienen.
 ## Planificación (objetivo 1)
 - [Personas](docs/objetivos/objetivo-1/personas.md)
 - [User Journeys](docs/objetivos/objetivo-1/user-journeys.md)
-- [Historias de Usuario](docs/objetivos/objetivo-1/historias-usuario.md)
+- [Historias de Usuario](docs/objetivos/objetivo-1/historias-de-usuario.md)
 - [Milestones](docs/objetivos/objetivo-1/milestones.md)
 - [Conceptos](docs/objetivos/objetivo-1/conceptos.md)
 
