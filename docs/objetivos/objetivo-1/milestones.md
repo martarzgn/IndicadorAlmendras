@@ -27,14 +27,14 @@ la misma que en el milestone 0.
 
 **Cómo se hace:**
 Es un milestone interno.
-Se parte del código del milestone 0 y se sigue un desarrollo guiado por tests: el 
-problema de la HU001 se divide en problemas más pequeños, cada uno en un issue, y 
-para cada uno primero se escribe el test que comprueba si está resuelto y después 
-el código que lo resuelve.
+Se parte del código del milestone 0. Antes de escribir ningún test se mira si lo que
+se modeló basta para resolver la HU001, y si falta algo se completa igual que en 
+el milestone 0: con issues que salen de la HU001.
+Después se sigue un desarrollo guiado por tests: el problema de la HU001 se divide 
+en problemas más pequeños, cada uno en un issue, y para cada uno primero se 
+escribe el test que comprueba si ese problema está resuelto y luego el código.
 
 **Cómo compruebo que es válido:**
-- los tests se ejecutan automáticamente con una sola orden y pasan;
-- comprueban, con semanas pasadas de la Lonja de Albacete, que se 
-  sabe decir si el precio estaba alto de verdad comparado con esas 
-  mismas semanas de otras campañas;
-- cada test responde a un issue, y cada issue a la HU001.
+- los tests se ejecutan usando semanas reales de la Lonja de Albacete;
+- comprueban que se resuelve el problema de la HU001 según lo que mis 
+  padres y mi tío entienden por precio alto de verdad.
