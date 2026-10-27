@@ -11,5 +11,3 @@ cuando deciden si llaman a la cooperativa o esperan.
 A mis padres ya les ha pasado: vendieron unos 1000 kg en octubre de 2025 y poco después el precio subió alrededor de un 7 %. Como venden toda la cosecha de una vez, esa subida la pierden sobre la cosecha entera del año. Y si esperan y el precio baja, también pierden. Una semana es mejor para vender cuanto más cerca está su precio del más alto que hubo desde esa semana hasta ese plazo.
 
 Los precios semanales desde 2021 están en [Synergynuts - Lonja de Albacete](https://synergynuts.upct.es/precio-almendra/lonja-albacete/). Cómo lo hacen hoy y cuándo tienen que decidirse está en sus journeys: [mis padres](user-journeys.md#user-journey-mª-del-mar-y-antonio-deciden-cuándo-vender-la-almendra) y [mi tío](user-journeys.md#user-journey-rafa-mi-tío-decide-cuándo-vender-la-almendra).
-
-* Personas: [Mª del Mar y Antonio](personas.md#mª-del-mar-y-antonio-mis-padres), [Rafa](personas.md#rafa-mi-tío)
