@@ -18,5 +18,4 @@ milestone 0 y sigue con el problema de la [HU001](historias_de_usuario.md#hu001-
 problemas más pequeños que se puedan comprobar con un test.
 
 Es válido si todos los tests pasan: cada uno comprueba uno de esos problemas
-más pequeños y, entre todos, el problema de la HU001. Además lo compruebo viendo que:
-- cada test responde a un issue, y cada issue a la HU001;
+más pequeños y, entre todos, el problema de la HU001.
