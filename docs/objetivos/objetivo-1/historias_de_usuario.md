@@ -2,7 +2,7 @@
 
 ## [HU001] No sé si el precio de la almendra de esta semana está alto de verdad
 
-Mis padres (Mª del Mar y Antonio) y mi tío Rafa tienen la almendra guardada en la cooperativa Oleomontes desde que terminan de cogerla en septiembre. Cada jueves sale un precio nuevo en la Lonja de Albacete (Comuna para la Lauranne de mis padres y Guara para la de mi tío), pero ellos no lo miran: se lo cuentan los vecinos, la familia o la cooperativa. No tienen forma de saber si ese precio está [alto de verdad](user-journeys.md#qué-entiende-por-precio-alto-de-verdad) comparado con lo que suele valer en esas mismas semanas en otras campañas, así que acaban vendiendo cuando vende un vecino o un familiar, o por lo que se comenta en el pueblo.
+Mis padres (Mª del Mar y Antonio) y mi tío Rafa tienen la almendra guardada en la cooperativa Oleomontes desde que terminan de cogerla en septiembre. Cada jueves sale un precio nuevo en la Lonja de Albacete, que es el que usa la cooperativa para pagarles (Comuna para la Lauranne de mis padres, porque la cooperativa se la compra como Comuna, y Guara para la de mi tío), pero ellos no lo miran: se lo cuentan los vecinos, la familia o la cooperativa. No tienen forma de saber si ese precio está [alto de verdad](user-journeys.md#qué-entiende-por-precio-alto-de-verdad) comparado con lo que suele valer en esas mismas semanas en otras campañas, así que acaban vendiendo cuando vende un vecino o un familiar, o por lo que se comenta en el pueblo.
 
 Como el precio cambia cada jueves, la duda de si está alto de verdad no la tienen una sola vez, sino cada semana de la campaña,
 hasta que venden la cosecha. Además, se enteran del precio cuando están en su casa, en el bar o en el campo, y es en ese mismo momento
