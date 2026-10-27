@@ -1,9 +1,5 @@
 # User journeys
 
-## Qué entiende por precio alto de verdad
-
-Para mis padres y mi tío un precio está alto de verdad cuando es más alto de lo que solía valer la almendra en esas mismas semanas en las campañas anteriores, no solo más alto que la semana pasada. Ahora mismo lo único que tienen para saberlo es lo que se comenta en el pueblo.
-
 ## User journey: Mª del Mar y Antonio deciden cuándo vender la almendra
 
 Lo hablan entre los dos, pero el que llama a la cooperativa es Antonio.
