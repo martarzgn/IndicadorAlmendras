@@ -17,6 +17,6 @@ y todavía no le llega al cliente, así que se valida con los tests. Parte de lo
 milestone 0 y sigue con el problema de la [HU001](historias_de_usuario.md#hu001-no-sé-si-vender-la-almendra-esta-semana-o-esperar-a-las-siguientes), dividiéndolo en
 problemas más pequeños que se puedan comprobar con un test.
 
-Es válido si todos los tests pasan con una sola orden y comprueban que se resuelve el
+Es válido si todos los tests pasan y comprueban que se resuelve el
 problema de la HU001 tal como está descrito. Además lo compruebo viendo que:
 - cada test responde a un issue, y cada issue a la HU001;
