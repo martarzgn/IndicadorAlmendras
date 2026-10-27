@@ -14,7 +14,7 @@ Es válido si se ha seguido la metodología. Lo compruebo viendo que:
 
 Es un milestone interno: lo que se entrega lo usa el equipo para seguir desarrollando
 y todavía no le llega al cliente, así que se valida con los tests. Parte de lo que se entrega en el
-milestone 0 y sigue con el problema de la [HU001](historias_de_usuario.md#hu001-no-sé-si-vender-     la-almendra-esta-semana-o-esperar-a-las-siguientes), dividiéndolo en
+milestone 0 y sigue con el problema de la [HU001](historias_de_usuario.md#hu001-no-sé-si-vender-la-almendra-esta-semana-o-esperar-a-las-siguientes), dividiéndolo en
 problemas más pequeños que se puedan comprobar con un test.
 
 Es válido si todos los tests pasan: cada uno comprueba uno de esos problemas
