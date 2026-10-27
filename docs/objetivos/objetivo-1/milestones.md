@@ -9,7 +9,6 @@ y para analizarlo se sigue diseño dirigido por el dominio (Domain Driven Design
 Es válido si se ha seguido la metodología. Lo compruebo viendo que:
 - todo lo que hay en el código sale de la HU001, y con eso ya se puede
   empezar a programar la lógica del milestone 1;
-- en los issues se usa el mismo vocabulario que usan mis padres, mi tío y la cooperativa;
 - cada parte del código responde a uno de esos issues, donde se justifica por qué es lo
   que es;
 - se han tenido en cuenta los errores que pueden darse al crear cada parte del código.
