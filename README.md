@@ -97,6 +97,11 @@ Hay webs que publican precios de almendra de varias lonjas, como
 semana, pero no te dicen si te conviene vender ya o esperar, ni cuánto te juegas tú
 con tu cosecha, que es lo que mis padres no tienen.
 
+## Planificación (objetivo 1)
+- [Personas](docs/objetivos/objetivo-1/personas.md)
+- [User Journeys](docs/objetivos/objetivo-1/user-journeys.md)
+- [Historias de Usuario](docs/objetivos/objetivo-1/historias_de_usuario.md)
+- [Milestones](docs/objetivos/objetivo-1/milestones.md)
 
 ## Configuración del repositorio y juego de rol
 
